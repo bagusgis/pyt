@@ -1,0 +1,19 @@
+Python for GIS
+1.Sebutkan library python yang sering digunakan 
+dalam GIS dalam jelaskan salah satunya?
+
+
+Jawaban Soal:
+1. Arcpy
+Digunakan pada produk esri, jika pada library ArcPy terdapat problem.
+Arcpy digunakan untuk mengolah data spasial baik untuk manajemen,
+konversi dan membuat peta
+
+2. GDAL
+3. RSGISLIB
+4. Geopandas
+5. Numpy
+6. Maplotlib
+7. PyQGIS
+Digunakan pada qgis phyton console, dapat digunakan untuk memanggil data dan prosesing spasial 
+
